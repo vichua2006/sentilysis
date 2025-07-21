@@ -1,5 +1,5 @@
 # Sentilysis @ SpurHacks 2025
-##🚀 Inspiration
+## 🚀 Inspiration
 We wanted to make real-time stock sentiment and global event analysis accessible and visually engaging for everyone. With so much financial news and data, it’s hard to see the big picture so we built Sentilysis to combine AI, live data, and interactive visuals in a single dashboard.
 
 ## How we built it
